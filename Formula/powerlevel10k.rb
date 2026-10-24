@@ -1,7 +1,7 @@
 class Powerlevel10k < Formula
   desc "A Zsh theme with instant prompt, flexible customization and out-of-the-box configuration"
-  homepage "https://github.com/redbasecap-buiss/powerlevel10k"
-  url "https://github.com/redbasecap-buiss/powerlevel10k.git",
+  homepage "https://github.com/quantumnic/powerlevel10k"
+  url "https://github.com/quantumnic/powerlevel10k.git",
     tag: "v1.24.11"
   license "MIT"
 
