@@ -15,5 +15,5 @@ brew install netscout   # or: velo, powerlevel10k
 |---------|-------------|
 | **netscout** | 10-in-1 network diagnostics toolkit (ping, dns, port scan, traceroute, HTTP probe, TLS check, speed test, WHOIS, LAN scan, TUI) |
 | **velo** | Blazing-fast terminal file manager (TUI) |
-| **ssd-llm** | Run 70B+ LLMs on Apple Silicon using SSD as extended memory (formula currently broken: tag v1.39.0 is not published yet) |
+| **ssd-llm** | Run 70B+ LLMs on Apple Silicon using SSD as extended memory |
 | **powerlevel10k** | Zsh theme (fork of romkatv/powerlevel10k) |

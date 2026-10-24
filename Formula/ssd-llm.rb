@@ -2,7 +2,7 @@ class SsdLlm < Formula
   desc "Run 70B+ LLMs on Apple Silicon using SSD as extended memory"
   homepage "https://github.com/quantumnic/ssd-llm"
   url "https://github.com/quantumnic/ssd-llm/archive/refs/tags/v1.39.0.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "2a55f9e771630b800c632ae6ad9fea9fa63481ea59745530d72f4051f8d323b9"
   license "MIT"
   head "https://github.com/quantumnic/ssd-llm.git", branch: "main"
 
